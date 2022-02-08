@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grass OBJ->USDZ test
+* source:	https://sketchfab.com/3d-models/grass-obj-usdz-test-373221542e6a4dd7a1797d603f171f4e
+* author:	Eric Haines (https://sketchfab.com/erich)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grass OBJ->USDZ test" (https://sketchfab.com/3d-models/grass-obj-usdz-test-373221542e6a4dd7a1797d603f171f4e) by Eric Haines (https://sketchfab.com/erich) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
